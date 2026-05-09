@@ -4,8 +4,8 @@ import random
 import pyperclip
 import json
 starting_username = "starting mail/username"
-path = "C:\Projects\pass_manager\logo.png"
-file_path = "C:\Projects\pass_manager\data.json"
+path = "logo.png"
+file_path = "data.json"
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def gen_pass():
     letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
